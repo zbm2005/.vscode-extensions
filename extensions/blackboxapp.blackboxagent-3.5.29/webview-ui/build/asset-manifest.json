@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.css",
+    "main.js": "/static/js/main.js",
+    "static/js/453.c38787b0.chunk.js": "/static/js/453.c38787b0.chunk.js",
+    "static/media/codicon.ttf?": "/static/media/codicon.a30767a9fde62b4b948d.ttf",
+    "index.html": "/index.html",
+    "main.css.map": "/static/css/main.css.map",
+    "main.js.map": "/static/js/main.js.map",
+    "453.c38787b0.chunk.js.map": "/static/js/453.c38787b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.css",
+    "static/js/main.js"
+  ]
+}
